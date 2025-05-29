@@ -25,7 +25,8 @@ jobs:
           python-version: "3.12"
 
       - name: Check environment variables
-        run: echo "CSV Path: $CSV_URL"
+        run: |
+          echo "CSV Path: $CSV_URL"
 
       - name: Install dependencies
         run: |
