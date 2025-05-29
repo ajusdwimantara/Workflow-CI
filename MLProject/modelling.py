@@ -25,8 +25,8 @@ if __name__ == "__main__":
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     # Set MLflow tracking config
-    # mlflow.set_tracking_uri(uri="http://127.0.0.1:5000/")
-    mlflow.set_tracking_uri("file:../mlruns")
+    mlflow.set_tracking_uri(uri="http://localhost:5000/")
+    # mlflow.set_tracking_uri("file:../mlruns")
     
     # Run
     model = RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth, random_state=42)
