@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/74087cb88b474c9482180e099b4df8bd/artifacts
+end_time: 1748513965507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74087cb88b474c9482180e099b4df8bd
+run_name: rare-sponge-155
+run_uuid: 74087cb88b474c9482180e099b4df8bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748513960123
+status: 4
+tags: []
+user_id: ajusd

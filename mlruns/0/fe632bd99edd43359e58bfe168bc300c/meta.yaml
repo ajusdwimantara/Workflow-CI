@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe632bd99edd43359e58bfe168bc300c/artifacts
+end_time: 1748513562425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe632bd99edd43359e58bfe168bc300c
+run_name: languid-lamb-699
+run_uuid: fe632bd99edd43359e58bfe168bc300c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748513044060
+status: 4
+tags: []
+user_id: ajusd

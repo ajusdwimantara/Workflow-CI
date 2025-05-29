@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fccbfc80a2434895aca3b827cd0ec558/artifacts
+end_time: 1748513980192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fccbfc80a2434895aca3b827cd0ec558
+run_name: secretive-squid-920
+run_uuid: fccbfc80a2434895aca3b827cd0ec558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748513975864
+status: 3
+tags: []
+user_id: ajusd
