@@ -1,6 +1,3 @@
-artifact_location: mlflow-artifacts:/115367872513652107
-creation_time: 1748513562102
-experiment_id: '115367872513652107'
-last_update_time: 1748513562102
-lifecycle_stage: active
-name: Modelling
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a560d1a998155bc599c2d884f0bca138b13235276473f0703c78e60de6373b5
+size 193
